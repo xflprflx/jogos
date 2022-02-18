@@ -1,3 +1,4 @@
+#teste
 import random
 
 def jogar():
